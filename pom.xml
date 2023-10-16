@@ -17,9 +17,10 @@
         <module>ribbon</module>
         <module>feign</module>
         <module>hystrix</module>
-        <module>naticeconfigcilent</module>
         <module>nativeconfigserver</module>
         <module>nativeconfigclient</module>
+        <module>configserver</module>
+        <module>configclient</module>
     </modules>
 
 
